@@ -2,9 +2,11 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![PyQt6](https://img.shields.io/badge/GUI-PyQt6-%23217346)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![ Python ]( https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white )
+![ PyQt6 ]( https://img.shields.io/badge/PyQt6-GUI-41CD52?logo=qt&logoColor=white )
+![ pandas ]( https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white )
+![ numpy ]( https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white )
+![ Windows ]( https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white )
 
 **Автоматическая рассадка по аудиториям с минимизацией соседства одноклассников и знакомых**
 
